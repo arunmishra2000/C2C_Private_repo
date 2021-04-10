@@ -537,14 +537,14 @@ footer a:hover {
   margin-top: 2%;
   padding: 10px 45px;
   color: #fff;
-  background-image: linear-gradient(to top, #e6198e, #eb47a5);
+  background-image: linear-gradient(to top, #00917c, #00917c);
   border-radius: 30px;
 }
 
 .resources-btn:hover {
   color: #fff;
   box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.3);
-  background-image: linear-gradient(to top, #eb47a5, #e6198e);
+  background-image: linear-gradient(to top, #5f939a, #5f939a);
 }
 
 /* scholarship & jobs section */

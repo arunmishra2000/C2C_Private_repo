@@ -9,6 +9,16 @@ const Navbar = () => {
     history.push("/Login");
     window.location.reload();
   }
+  function handleResources(ev) {
+    ev.preventDefault();
+    history.push("/Resources");
+    window.location.reload();
+  }
+  function CCExchange(ev) {
+    ev.preventDefault();
+    history.push("/HomePage");
+    window.location.reload();
+  }
   function epidemicClick(ev) {
     ev.preventDefault();
     history.push("/Covid");
@@ -41,10 +51,14 @@ const Navbar = () => {
             </a>
           </li>
           <li className="nav-item navlink-border">
-            <a className="nav-link px-4">Resources</a>
+            <a className="nav-link px-4" onClick={handleResources}>
+              Resources
+            </a>
           </li>
           <li className="nav-item navlink-border">
-            <Link className="nav-link px-4">CCExchange</Link>
+            <Link className="nav-link px-4" onClick={CCExchange}>
+              CCExchange
+            </Link>
           </li>
           <li className="nav-item navlink-border">
             <Link className="nav-link px-4" onClick={CCClick}>

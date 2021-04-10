@@ -34,6 +34,9 @@ function Footer() {
               <a href="https://github.com/arunmishra2000">
                 <i class="fab fa-instagram fa-2x"></i>
               </a>
+              <a href="https://github.com/arunmishra2000">
+                <i class="fab fa-linkedin fa-2x"></i>
+              </a>
             </div>
           </div>
         </div>
@@ -45,6 +48,7 @@ function Footer() {
         >
           &#169; The New Civilisation - 2020
         </p>
+        <br />
       </footer>
     </div>
   );

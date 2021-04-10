@@ -1,7 +1,9 @@
 import React from "react";
 import pic from "./assets/abc2.svg";
+import { useHistory, Redirect, Link, NavLink } from "react-router-dom";
 
 function Register() {
+  let history = useHistory();
   return (
     <>
       <section id="login">
@@ -60,7 +62,14 @@ function Register() {
                   conditions
                 </label>
               </div>
-              <button type="submit" class="btn submit-btn">
+              <button
+                type="submit"
+                class="btn submit-btn"
+                onClick={() => {
+                  history.push("/HomePage");
+                  window.location.reload();
+                }}
+              >
                 Sign up
               </button>
               <p className="extra">

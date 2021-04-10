@@ -25,6 +25,7 @@
     "eslint-utils": "^2.1.0",
     "express": "^4.16.4",
     "firebase": "^4.6.0",
+    "formik": "^2.2.6",
     "gatsby": "^1.9.63",
     "gatsby-link": "^1.6.21",
     "gatsby-plugin-google-analytics": "^1.0.10",
@@ -35,11 +36,14 @@
     "gatsby-plugin-typography": "^1.7.10",
     "gatsby-remark-emoji": "0.0.1",
     "gatsby-transformer-remark": "^1.7.17",
+    "history": "^5.0.0",
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
     "jquery": "^3.6.0",
     "moment": "^2.29.1",
     "morgan": "~1.9.1",
+    "numeral": "^2.0.6",
+    "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-beautiful-dnd": "^13.1.0",
     "react-chartjs-2": "^2.9.0",
@@ -57,7 +61,9 @@
     "semantic-ui-react": "^0.77.0",
     "sort-json-array": "^0.1.7",
     "typography-theme-lincoln": "^0.15.11",
-    "xml-js": "^1.6.11"
+    "use-react-router": "^1.0.7",
+    "xml-js": "^1.6.11",
+    "yup": "^0.32.9"
   },
   "browserslist": {
     "production": [

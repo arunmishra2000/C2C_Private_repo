@@ -5,6 +5,8 @@ import Login from "./Login";
 import Register from "./Register";
 import Covid from "./Epidemic/src2/Covid";
 import Crowdsourcing from "./CrowdSourcing/src/Crowdsourcing.js";
+import Resources from "./Resources";
+import HomePage from "./Homepage/src/HomePage";
 
 class App extends React.Component {
   render() {
@@ -18,10 +20,14 @@ class App extends React.Component {
               <Route exact path="/Register" component={Register} />
               <Route exact path="/Epidemic" component={Covid} />
               <Route path="/Crowdsourcing" component={Crowdsourcing} />
+              <Route path="/Resources" component={Resources} />
+              <Route path="/HomePage" component={HomePage} />
               <Covid />
               <Login />
               <Home />
               <Register />
+              <Resources />
+              <HomePage />
             </Switch>
           </div>
         </Router>

@@ -41,7 +41,14 @@ const Login = () => {
                   <input type="checkbox" /> Keep me signed in
                 </label>
               </div>
-              <button type="submit" class="btn submit-btn">
+              <button
+                type="submit"
+                class="btn submit-btn"
+                onClick={() => {
+                  history.push("/HomePage");
+                  window.location.reload();
+                }}
+              >
                 Log in
               </button>
 
