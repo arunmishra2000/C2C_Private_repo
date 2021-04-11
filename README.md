@@ -41,3 +41,41 @@ Features of our app :
   <p align="center">
   <img src="./readme_files_images/zzzz.JPG" alt="Size Limit CLI" width="738">
 </p>
+
+<p align="center">
+  <img src="./readme_files_images/zzzz1.JPG" alt="Size Limit CLI" width="738">
+</p>
+
+<p align="center">
+  <img src="./readme_files_images/zzzz2.JPG" alt="Size Limit CLI" width="738">
+</p>
+
+<p align="center">
+  <img src="./readme_files_images/zzzz3.JPG" alt="Size Limit CLI" width="738">
+</p>
+
+<p align="center">
+  <img src="./readme_files_images/zzzz4.JPG" alt="Size Limit CLI" width="738">
+</p>
+
+<p align="center">
+  <img src="./readme_files_images/zzzz5.JPG" alt="Size Limit CLI" width="738">
+</p>
+
+<p align="center">
+  <img src="./readme_files_images/zzzz6.JPG" alt="Size Limit CLI" width="738">
+</p>
+
+<p align="center">
+  <img src="./readme_files_images/zzzz7.JPG" alt="Size Limit CLI" width="738">
+</p>
+
+<p align="center">
+  <img src="./readme_files_images/zzzz11.JPG" alt="Size Limit CLI" width="738">
+</p>
+
+<p align="center">
+  <img src="./readme_files_images/zzzz12.JPG" alt="Size Limit CLI" width="738">
+</p>
+
+
