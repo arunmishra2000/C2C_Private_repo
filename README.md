@@ -78,7 +78,7 @@ Features of our app :
 
 ### This is a React App - To install it
 ```yaml
-git clone https://github.com/arunmishra2000/Hack_Private_repo
+git clone https://github.com/arunmishra2000/Hack_Private_repo.git
 ```
 ```yaml
 npm install
