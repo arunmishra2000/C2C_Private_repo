@@ -2,6 +2,8 @@
 
 ## Just one App targeting Pollution, Social Development, Global Currency and Global Brotherhood and well-being.
 
+### Earn Carbon Credits and be the part of globalisation. Take mankind to sustainable living and give it a future.
+
 The New Civilisation provides you a platform to earn credits when you move in the direction
 of sustainable development. We call this decentralised currency as carbon credits. If you are
 the reason for 1 tonne for CO2 emission, your carbon credit will be reduced by unity, and
