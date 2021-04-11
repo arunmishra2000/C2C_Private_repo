@@ -9,15 +9,15 @@ of sustainable development. We call this decentralised currency as carbon credit
 the reason for 1 tonne for CO2 emission, your carbon credit will be reduced by unity, and
 increased by one tonne if you move towards sustainability.
 
+
 How can you reduce carbon emission :
 
-- **Buy Sustainable Clothing** , and earn carbon credits.
+- **Buy Sustainable Clothing and equipments** , and earn carbon credits.
 - Follow **Reduce, Reuse, Recycle** principal, donate your unused item to the
   regulating authority and Carbon Credits.
 - **Cycle today and leave your Car** because your CO2 tracker will reduce your
   earned Credits.
 - Donate to **charities and global well-being**, earn credits and share it to the underprivileged.
-- Earned your credits? **Now exhange them for your global currency!**
 
 Features of our app :
 
@@ -31,5 +31,13 @@ Features of our app :
 - **Section for Women and Children** in the resources tab is present where Carbon Credits can be exchanged for scholarships,
   jobs in NGO/charities, vocational training and much more.
 
-- Donate to **charities and global well-being**, earn credits and share it to the underprivileged.
-- Earned your credits? **Now exhange them for your global currency!**
+- Earned your credits? **Now exhange them for your local currency!**, compare it, exchange it donate it.
+
+- We have this special section towards empathy. **Directly talk to the people you donate to!** Your small contribution
+  can be a big change in their life. Talk to them in the **Read and Share Experience** Tab.
+
+  -**A special tab is provided for epidemics also.** For COVID-19 , you can donate your credits directly to WHO. Talk directly to the people who benefitted from your credits in the **Read and Share Experience** Tab.
+
+  <p align="center">
+  <img src="./readme_files_images/zzzz.JPG" alt="Size Limit CLI" width="738">
+</p>
