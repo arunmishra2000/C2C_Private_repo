@@ -76,3 +76,9 @@ Features of our app :
 </p>
 
 
+### This is a React App - To install it
+```yaml
+npm install
+```
+
+
