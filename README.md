@@ -42,9 +42,6 @@ Features of our app :
   <img src="./readme_files_images/zzzz.JPG" alt="Size Limit CLI" width="738">
 </p>
 
-<p align="center">
-  <img src="./readme_files_images/zzzz1.JPG" alt="Size Limit CLI" width="738">
-</p>
 
 <p align="center">
   <img src="./readme_files_images/zzzz2.JPG" alt="Size Limit CLI" width="738">
