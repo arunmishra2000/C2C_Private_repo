@@ -291,7 +291,7 @@ a.nav-link.px-4 {
 }
 
 #description-section .fa-shopping-cart {
-  color: #47bda1;
+  color: #d1d1d1;
 }
 
 #description-section .fa-search {
@@ -564,10 +564,9 @@ footer a:hover {
 
 #scholarships h1,
 #jobs h1 {
-  letter-spacing: 2px;
   font-weight: 700;
   text-transform: uppercase;
-  color: #e6198e;
+  color: #00917c;
   font-size: 2.5em;
   margin-top: 1em;
   margin-bottom: 1em;
@@ -598,7 +597,7 @@ footer a:hover {
 
 #scholarships li:hover,
 #jobs li:hover {
-  background-color: #fdc8ff;
+  background-color: #a3d2ca;
 }
 
 #scholarships a,
@@ -608,7 +607,7 @@ footer a:hover {
 
 #scholarships a:hover,
 #jobs a:hover {
-  color: #e6198e;
+  color: #1597bb;
   text-decoration: none;
 }
 

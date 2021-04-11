@@ -10,7 +10,11 @@ export default class Footer extends Component {
             <Menu.Item name="developer">
               <p>
                 Developed & Designed by{" "}
-                <a href="http:github.com/arunmishra2000" target="_blank">
+                <a
+                  style={{ color: "blue" }}
+                  href="http:github.com/arunmishra2000"
+                  target="_blank"
+                >
                   Futuriste
                 </a>
               </p>

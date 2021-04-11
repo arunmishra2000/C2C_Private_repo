@@ -35,7 +35,6 @@ class Covid extends React.Component {
         >
           <h1 className="navbar-brand"> The New Civilisation </h1>
         </nav>
-
         <img className={styles.image} src={image} alt="COVID-19" />
         <Cards data={data} />
         <CountryPicker handleCountryChange={this.handleCountryChange} />
@@ -63,6 +62,9 @@ class Covid extends React.Component {
             Donate
           </a>
         </div>
+        <h1 style={{ fontSize: "2rem", color: "" }}>
+          Thanks for being the part of this global cause!
+        </h1>
         <Footer style={{ width: "100vw", border: "0px" }} />
       </div>
     );

@@ -1,6 +1,7 @@
 import React from "react";
 import pic from "./assets/abc2.svg";
 import { useHistory, Redirect, Link, NavLink } from "react-router-dom";
+import Footer from "./Footer";
 
 const Login = () => {
   let history = useHistory();
@@ -75,6 +76,7 @@ const Login = () => {
           </div>
         </div>
       </section>
+      <Footer />
     </>
   );
 };

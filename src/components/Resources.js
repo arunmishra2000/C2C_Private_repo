@@ -24,17 +24,17 @@ function Resources() {
           <ul class="navbar-nav ml-auto">
             <li class="nav-item navlink-border">
               <a class="nav-link px-4" href="resources.html">
-                Resources
+                Register Resources
               </a>
             </li>
             <li class="nav-item navlink-border">
               <a class="nav-link px-4" href="#">
-                Products
+                Crowdsourcing
               </a>
             </li>
             <li class="nav-item navlink-border">
               <a class="nav-link px-4" href="#">
-                Ideas
+                Donate
               </a>
             </li>
             <li class="nav-item">
@@ -50,8 +50,9 @@ function Resources() {
         <div class="container-fluid-hero">
           <div class="row">
             <div class="col-lg-6 hero-intro">
-              <h1>
-                Community is made by all of us<span>.</span>
+              <h1 style={{ color: "#289672" }}>
+                Community is made by all of us
+                <span style={{ color: "#a3d2ca" }}>.</span>
                 <br />
               </h1>
               <p>
@@ -61,7 +62,20 @@ function Resources() {
                 you can possibly think of. Now nobility towards nature will buy
                 you scholarships, products, ideas and much more. Join the
                 League. Live a sustainable life and help us create our future.
+                <br />
+                <br />
+                <h1 style={{ color: "#28b5b5", fontSize: "2rem" }}>
+                  Available Resources
+                </h1>
+                <br />
+                <ul>
+                  <li>Scholarships</li>
+                  <li>Jobs in Charities and NGOs</li>
+                  <li>Vocational Training</li>
+                  <li>Educational Resources</li>
+                </ul>
               </p>
+              <br />
               <a href="#scholarships">
                 <button class="btn btn-lg resources-btn">
                   Take me to resources
@@ -225,9 +239,7 @@ function Resources() {
           <div class="row">
             <div class="col-lg-4 col-md-4 col-sm-4">
               <h1>
-                <a id="back-to-top" href="#go-to-top">
-                  TECHIFY
-                </a>
+                <a id="back-to-top" href="#go-to-top"></a>
               </h1>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-4">

@@ -14,8 +14,11 @@ function Body() {
             </h1>
             <p>
               Earn, Live and Donate. Let's break the boundaries and become
-              global citizens!
+              global citizens! <br /> Be a part of Sustainable Living and Earn
+              your Carbon Credits. Donate it, Exchange it with money and all the
+              possible resources. We've got you covered!
             </p>
+            <br />
             <a href="#go-here">
               <button className="btn btn-lg cta">Learn More</button>
             </a>

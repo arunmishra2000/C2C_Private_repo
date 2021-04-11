@@ -7,13 +7,22 @@ function Cards() {
       <section id="description-section">
         <div id="go-here" class="container-fluid">
           <h1>One-platform for all your goals.</h1>
+          <br />
+          <br />
+          <br />
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur
-            temporibus at vero voluptas pariatur repellat nobis? Cum ex ipsam
-            provident qui eius sunt sed esse nam fuga delectus! Quasi aperiam
-            non tempora dicta ducimus ipsam atque eos fugiat repellendus libero,
-            quis molestias itaque, natus eum eius a, dolorum minima dolore!
+            Earned your credits? Awesome! <br />
+            But did you know they are a global currency totally independent from
+            any other? Become a part of the global community and join others who
+            wish to create a clean and green future just like you. Share and
+            exchange your Carbon Credits and get all the kind of resources,
+            donate it to the underpriviledged and help the mankind to drift
+            towards globalisation Together we can make sustainable living a
+            beautiful reality.
           </p>
+          <br />
+          <br />
+          <br />
 
           <div class="row">
             <div class="col-lg-4 col-md-4">
@@ -23,11 +32,14 @@ function Cards() {
                     <i class="fas fa-calendar-check fa-2x"></i>
                   </p>
 
-                  <h5>Resources</h5>
+                  <h5 style={{ fontWeight: "bolder" }}>Earn</h5>
                   <p class="card-text">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Duis a urna enim. Integer in sapien lorem. In hac habitasse
-                    platea dictumst.
+                    Reduce the carbon emission on your side and Earn your Carbon
+                    Credits for that courtesy. Login to your account to check
+                    your carbon credits. You can exchange this Carbon Credits
+                    for monetary value in your local currency. You can exchange
+                    it for resources and can also donate it globally to
+                    charities.
                   </p>
                   <a href="resources.html">
                     <button class="btn btn-lg description-cta">
@@ -43,11 +55,13 @@ function Cards() {
                   <p>
                     <i class="fas fa-shopping-cart fa-2x"></i>
                   </p>
-                  <h5>Products</h5>
+                  <h5 style={{ fontWeight: "bolder" }}>Donate</h5>
                   <p class="card-text">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Duis a urna enim. Integer in sapien lorem. In hac habitasse
-                    platea dictumst.
+                    Do you desire to help people suffering due to the pandemic?
+                    Are you interested in supporting a good cause? Futuriste
+                    gives you an oppurtunity to donate in the most
+                    environment-friendly and ecological way, a chance to save
+                    the people and save the world together in a few clicks.
                   </p>
                   <a href="#">
                     <button class="btn btn-lg description-cta">
@@ -63,11 +77,13 @@ function Cards() {
                   <p>
                     <i class="fas fa-search fa-2x"></i>
                   </p>
-                  <h5>Ideas</h5>
+                  <h5 style={{ fontWeight: "bolder" }}>Resources</h5>
                   <p class="card-text">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Duis a urna enim. Integer in sapien lorem. In hac habitasse
-                    platea dictumst.
+                    Exchange your Carbon Credits for all kind resources. For
+                    example, you can get scholarships in exchange of CCs. You
+                    can get recruited for jobs in environment centric
+                    NGOs/charities. You can enroll yourself in online courses
+                    and vocational training courses in exchange of your CCs.
                   </p>
                   <a href="#">
                     <button class="btn btn-lg description-cta">
@@ -79,6 +95,7 @@ function Cards() {
             </div>
           </div>
           <br />
+          <br />
           <div class="row">
             <div class="col-lg-4 col-md-4">
               <div class="card">
@@ -86,13 +103,15 @@ function Cards() {
                   <p>
                     <i class="fas fa-coins fa-2x"></i>
                   </p>
-                  <h5>Resources</h5>
+                  <h5 style={{ fontWeight: "bolder" }}>Epidemic</h5>
                   <p class="card-text">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Duis a urna enim. Integer in sapien lorem. In hac habitasse
-                    platea dictumst.
+                    As we're facing this pandemic, help those who are
+                    underpriviledged, talk to them, read their experiences.
+                    Donate directly to WHO by your CCs. Get live updates, check
+                    the global index graphically, with countries data
+                    individually.
                   </p>
-                  <a href="resources.html">
+                  <a>
                     <button class="btn btn-lg description-cta">
                       Learn more
                     </button>
@@ -106,11 +125,12 @@ function Cards() {
                   <p>
                     <i class="fas fa-hand-holding-medical fa-2x"></i>
                   </p>
-                  <h5>Products</h5>
+                  <h5 style={{ fontWeight: "bolder" }}>CCExchange</h5>
                   <p class="card-text">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Duis a urna enim. Integer in sapien lorem. In hac habitasse
-                    platea dictumst.
+                    As Carbon Credits a decentralised way of money exchange, you
+                    can exchange your credits for actual money in your local
+                    currency. You can check the exchange value and the exchange
+                    rate. Get the money directly credited to your bank account .
                   </p>
                   <a href="#">
                     <button class="btn btn-lg description-cta">
@@ -126,11 +146,13 @@ function Cards() {
                   <p>
                     <i class="fas fa-leaf fa-2x"></i>
                   </p>
-                  <h5>Ideas</h5>
+                  <h5 style={{ fontWeight: "bolder" }}>Save the Nature</h5>
                   <p class="card-text">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Duis a urna enim. Integer in sapien lorem. In hac habitasse
-                    platea dictumst.
+                    By using this decentralised currency, not only are you
+                    saving the environment, but also being the part of global
+                    cause by donating your credits. This way we can keep a check
+                    on our Carbon Dioxide emissions and can move towards
+                    Sustainability.
                   </p>
                   <a href="#">
                     <button class="btn btn-lg description-cta">
@@ -142,6 +164,9 @@ function Cards() {
             </div>
           </div>
         </div>
+        <h1 style={{ color: "#00917c" }}>Help Build the Community with us!</h1>
+        <br />
+        <br />
       </section>
     </div>
   );
